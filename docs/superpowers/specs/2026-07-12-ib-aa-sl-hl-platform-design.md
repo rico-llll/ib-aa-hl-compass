@@ -244,6 +244,8 @@ Structured mathematical content uses sanitized Markdown plus TeX rendered with K
 
 HL questions are difficult overall. The hard tier emphasizes multi-stage reasoning, parameter dependence, inverse problems, proof/justification, and natural cross-topic links, while remaining inside the syllabus.
 
+HL difficulty labels are assessment-load labels, not syllabus levels: `Standard` is still a substantive multi-step HL exam-style task; `Hard` requires an extended technique chain or non-obvious setup; `Challenge` adds sustained synthesis, proof, parameter analysis, or high-mark interpretation. No label permits content beyond AA HL.
+
 Required HL difficulty distribution:
 
 | Domain | Standard | Hard | Challenge | Total |
@@ -263,7 +265,7 @@ Bayes rules:
 - Foundation or standard difficulty only.
 - Each can be solved from conditional probability definitions and supplied information without prior memorization of Bayes' theorem.
 
-Probability density function integration includes normalization, definite-integral probability, piecewise densities, CDF/PDF links, median/quartiles, expectation, variance, unknown parameters, and calculus-probability combinations.
+Probability density function integration includes normalization, definite-integral probability, piecewise densities, CDF/PDF links, median/quartiles, expectation, variance, unknown parameters, and calculus-probability combinations. At least 30 of the 45 continuous-random-variable questions require students to set up or evaluate a definite integral, and at least 15 are multi-stage Hard or Challenge questions.
 
 ### 6.2 AA SL topic practice: 580 original questions
 
@@ -348,7 +350,7 @@ Additional constraints derived from prior review:
 - Paper questions must develop mathematically; superficial one-formula modelling is rejected.
 - Hypothesis Testing is excluded from knowledge-map lessons, topic practice, mock papers, Paper 3, tags, and recommendations for both courses.
 
-## 7.1 Study-path and mastery rules
+### 7.1 Study-path and mastery rules
 
 - A student may browse any knowledge node; `locked` means “not yet recommended,” not access denied.
 - `ready` requires all direct prerequisite nodes to be mastered. `learning` begins after the first saved attempt.
